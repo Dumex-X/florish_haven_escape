@@ -1,0 +1,1 @@
+This static website is intentionally plain HTML, CSS, and vanilla JavaScript. Shared navigation, footer, styles, and interactions are repeated in the pages so the site can be uploaded to simple static hosting without a build step.
